@@ -1,0 +1,54 @@
+[
+    {
+        "day": "monday",
+        "time_arr": ["13:00-13:35", "13:35-14:10", "14:10-14:45", "14:45-15:25"],
+        "subj_arr": [
+            "Tjelesni odgoj", 
+            "Matematika", 
+            "Bosanski jezik i književnost", 
+            "Vjeronauka"
+        ]
+    },
+    {
+        "day": "tuesday",
+        "time_arr": ["13:00-13:35", "13:35-14:10", "14:10-14:45", "14:45-15:25"],
+        "subj_arr": [
+            "Engleski jezik",
+            "Bosanski jezik i književnost",
+            "Matematika",
+            "Likovna kultura"
+        ]
+    },
+    {
+        "day": "wednesday",
+        "time_arr": ["13:00-13:35", "13:35-14:10", "14:10-14:45", "14:45-15:25", "15:30-16:05"],
+        "subj_arr": [
+            "Informatika",
+            "Informatika",
+            "Bosanski jezik i književnost", 
+            "Moja okolina",
+            "Muzička kultura"
+        ]
+    },
+    {
+        "day": "thursday",
+        "time_arr": ["13:00-13:35", "13:35-14:10", "14:10-14:45", "14:45-15:25", "15:30-16:05"],
+        "subj_arr": [
+            "Tjelesni odgoj",
+            "Moja okolina",
+            "Engleski jezik",
+            "Matematika",
+            "Muzička kultura"
+        ]
+    },
+    {
+        "day": "friday",
+        "time_arr": ["13:00-13:35", "13:35-14:10", "14:10-14:45", "14:45-15:25"],
+        "subj_arr": [
+            "Bosnaski jezik i književnost",
+            "Matematika",
+            "Likovna kultura",
+            "Odjeljenska zajednica"
+        ]
+    }
+]
